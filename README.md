@@ -20,20 +20,6 @@ Experienced Software Engineer with a passion for creating robust and scalable ap
 - Testing: Jest, Enzyme
 - Agile Methodologies: Scrum, Kanban
 
-## Projects
-
-### Project Name 1
-
-A brief description of the project with its purpose, key features, and technologies used.
-
-- Technologies used: Node.js, Express.js, MongoDB, AWS Lambda, AWS API Gateway, TypeScript.
-
-### Project Name 2
-
-A brief description of the project with its purpose, key features, and technologies used.
-
-- Technologies used: Flutter, Dart, Firebase, RESTful APIs, Google Cloud Platform.
-
 ## Most recent Work Experience
 
 ### Mule.app ltd - Software Engineer | 2022 - 2023
